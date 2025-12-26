@@ -1,0 +1,7 @@
+Ticket_ID,Tweet_ID,Username,Tweet_Text,Timestamp,Department,Priority,Sentiment,Sentiment_Score,Status,Created_Date
+TKT001,1735234567890123456,@CustomerJohn,My credit card was declined at the store even though I have available credit. This is embarrassing!,2025-12-26 09:15:23,Cards,High,negative,0.12,Open,2025-12-26 12:00:15
+TKT002,1735234567890123457,@SarahM_Pgh,I've been trying to access my online banking for 2 hours. Your app keeps crashing!,2025-12-26 09:32:45,Digital,High,negative,0.05,Open,2025-12-26 12:00:15
+TKT003,1735234567890123458,@MikeSmith_PA,Question about the new mortgage rates - are they fixed or variable?,2025-12-26 10:05:12,Loans,Medium,neutral,0.88,Open,2025-12-26 12:00:15
+TKT004,1735234567890123459,@AngryCustomer99,UNBELIEVABLE! Someone made unauthorized charges on my account and customer service is not helping!,2025-12-26 10:28:56,Fraud,High,negative,0.02,Open,2025-12-26 12:00:15
+TKT005,1735234567890123460,@HappyBanker,Thank you for the quick resolution on my account issue. Great service!,2025-12-26 11:15:33,General,Low,positive,0.98,Open,2025-12-26 12:00:15
+TKT006,1735234567890123461,@PghResident,Can I increase my credit limit? I've been a customer for 5 years with perfect payment history.,2025-12-26 11:42:18,Cards,Medium,neutral,0.85,Open,2025-12-26 12:00:15
