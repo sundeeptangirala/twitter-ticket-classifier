@@ -1,0 +1,16 @@
+# Twitter API
+TwitterAPI>=2.8.0
+
+# Machine Learning & NLP
+transformers>=4.35.0
+torch>=2.0.0
+
+# Language Detection
+langdetect>=1.0.9
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: For production deployment
+# gunicorn>=21.0.0
+# schedule>=1.2.0
